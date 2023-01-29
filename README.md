@@ -22,3 +22,8 @@ You can use it in a userscript extension like Greasemonkey or Tampermonkey with 
     }, 1000);
 })();
 ```
+## Planned changes
+- Change name to 'Sped Up Cookie Clicker'
+- Ability to customize overriden FPS value
+- Better GitHub Pages page
+- Seperate (adjective) FPS for different game things
