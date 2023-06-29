@@ -22,25 +22,26 @@ You can use it in a userscript extension like Greasemonkey or Tampermonkey with 
     }, 1000);
 })();
 ```
-<br></br>
+
+<br>
 
 ## Comparison videos (GitHub Pages only)
 
 ### Normal Speed
 
-<video width="320" height="240" autoplay loop>
+<video width="320" height="240" poster="https://i.imgur.com/33loA4N.gif" preload="metadata" autoplay loop>
   <source src="https://i.imgur.com/nXszGhA.mp4" type="video/mp4">
   <h3>Your browser does not support the video tag.</h3>
 </video>
 
 ### x2 Speed
 
-<video width="320" height="240" autoplay loop>
+<video width="320" height="240" poster="https://i.imgur.com/UvQfTrB.gif" preload="metadata" autoplay loop>
   <source src="https://i.imgur.com/xYGwwt6.mp4" type="video/mp4">
   <h3>Your browser does not support the video tag.</h3>
 </video>
 
-<br></br>
+<br>
 
 ## Planned changes
 - Change name to 'Sped Up Cookie Clicker'
